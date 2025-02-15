@@ -1,3 +1,14 @@
+body {
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+
+a, a:hover {
+    color: rgb(91, 173, 240);
+}
+a:visited {
+    color: rgb(241, 87, 241);
+}
 div p {
     color: white;
     background-color: black;
